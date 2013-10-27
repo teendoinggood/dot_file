@@ -5,7 +5,7 @@ alias ll="ls -al"
 # ask for confirmation
 alias rm="rm -i"
 alias mv="mv -i"
-alias cp="cp -i"
+alias cp="cp -iv"
 
 # color
 alias grep="grep --color=auto -ni"
@@ -38,5 +38,5 @@ alias firefox="open -a Firefox"
 alias dir="ls"
 alias rename="mv"
 alias reload="source ~/.bashrc"
-alias clear="cls"
+alias cls="clear"
 
