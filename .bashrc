@@ -3,8 +3,8 @@ alias ls="ls -GF"
 alias ll="ls -al"
 
 # ask for confirmation
-alias rm="rm -i"
-alias mv="mv -i"
+alias rm="rm -iv"
+alias mv="mv -iv"
 alias cp="cp -iv"
 
 # color
