@@ -33,6 +33,7 @@ alias cat="cat -n"
 alias safari="open -a Safari"
 alias chrome="open -a Google\ Chrome"
 alias firefox="open -a Firefox"
+alias opera="open -a Opera"
 
 # rename cmd
 alias dir="ls"
