@@ -8,13 +8,14 @@ alias mv="mv -iv"
 alias cp="cp -iv"
 
 # color
-alias grep="grep --color=auto -ni"
+alias grep="grep --color=auto -ni -C3"
 alias ack="ack -i"
 
 # path shorcut
 alias desk="cd ~/Desktop"
 alias root="cd /"
 alias home="cd ~"
+alias code="cd ~/Desktop/Programming"
 
 # go back directory
 alias ..="cd .."
